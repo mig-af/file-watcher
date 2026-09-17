@@ -1,7 +1,7 @@
 
 
 
-# Chihuahua 🐾
+# File-Watcher 🐾
 
 **Monitor de archivos y carpetas en tiempo real,  liviano y de facil configuracion con alertas directas en telegram**
 
